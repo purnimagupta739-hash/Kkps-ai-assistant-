@@ -1,0 +1,6 @@
+{
+  "name": "Kanyakubja Public School AI Assistant",
+  "description": "Mobile-friendly AI assistant for Kanyakubja Public School, Kanpur. Helping students and parents get verified school information in Hindi, English, and Hinglish.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
